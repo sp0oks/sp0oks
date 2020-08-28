@@ -20,4 +20,4 @@ I'm a Data Engineer at [Birdie](https://www.birdie.ai/careers) and Computer Scie
 ### For beginners
 If you end up using or starring one of my repositories for any reason at all and it seems hard to pick up from where I left off, remember this:
 
-<img src="https://media.giphy.com/media/xT5LMMoEYSUrokM89O/giphy.gif" width=500>
+<img src="https://media.giphy.com/media/xT5LMMoEYSUrokM89O/giphy.gif" width=300>
