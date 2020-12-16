@@ -8,7 +8,7 @@ I'm a Data Engineer at [Birdie](https://www.birdie.ai/careers) and Computer Scie
 
 - 🔭 I’m currently working on DevOps, building scalable data architectures and ETL processes in general.
 - 🌱 I’m currently learning delivery, infrastructure and provisioning tools such as Terraform and Serverless Framework.
-- 📚 I have experience developing in Python, Golang, C/C++ and also delivering in Docker, Kubernetes, Serverless and Ansible.
+- 📚 I have experience developing in Python, Go, C/C++ and also delivering using Docker, Kubernetes, Serverless and Ansible.
 - 👯 I’m looking to collaborate specially in Cloud Infrastructure and Service projects, but all kinds of Open Source are welcome!
 - 🎶 In my free time I'm always looking for new music, playing drums or video games.
 
