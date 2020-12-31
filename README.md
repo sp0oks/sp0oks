@@ -3,7 +3,7 @@
 I'm a Computer Science student at [Universidade Federal de São Carlos](https://www2.ufscar.br) on my last period, and previously worked as a Data Engineer at [Birdie](https://www.birdie.ai/).
 
 
-![cptspookz's github stats](https://github-readme-stats.vercel.app/api?username=cptspookz&show_icons=true&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cptspookz&theme=darkhub&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Bio 🔍
