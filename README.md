@@ -17,7 +17,7 @@ I'm a Computer Science student at [Universidade Federal de São Carlos](https://
 
 ### Hit me up in any of these!
 [![Linkedin gasalves](https://img.shields.io/badge/-gasalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasalves/)](https://www.linkedin.com/in/gasalves/)
-[![GitHub cptspookz](https://img.shields.io/github/followers/CptSpookz?label=follow&style=social)](https://github.com/CptSpookz)
+[![GitHub sp0oks](https://img.shields.io/github/followers/sp0oks?label=follow&style=social)](https://github.com/sp0oks)
 [![Twitter spo0ks](https://img.shields.io/twitter/follow/spo0ks?label=spo0ks&style=social)](https://twitter.com/spo0ks)
 
 
