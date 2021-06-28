@@ -1,18 +1,9 @@
 ## Hi there, I'm Gabriel 👋
 
-I'm a Computer Science student at [Universidade Federal de São Carlos](https://www2.ufscar.br) on my last period, and currently working as a DevOps Engineer.
+I'm a Computer Science student at [Universidade Federal de São Carlos](https://www2.ufscar.br), currently working as a DevOps Engineer.
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cptspookz&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### Bio 🔍
-
-- 🔭 I’m currently working on DevOps, building scalable data architectures and ETL processes in general.
-- 🌱 I’m currently learning delivery, infrastructure and provisioning tools such as Terraform and Serverless Framework.
-- 📚 I have experience developing in Python, Go, C/C++ and also delivering using Docker, Kubernetes, Serverless and Ansible.
-- 👯 I’m looking to collaborate specially in Cloud Infrastructure and Service projects, but all kinds of Open Source are welcome!
-- 🎶 In my free time I'm always looking for new music, playing drums or video games.
+[![Stats](https://github-readme-stats.vercel.app/api?username=sp0oks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/sp0oks)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sp0oks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=java,systemverilog&layout=compact)](https://github.com/sp0oks)
 
 
 ### Hit me up in any of these!
