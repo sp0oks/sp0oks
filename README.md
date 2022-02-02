@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel 🙋‍♂️
 
-I'm a Computer Science graduate from [Universidade Federal de São Carlos](https://www2.ufscar.br), currently working as a DevOps Engineer.
+I'm a Computer Science graduate from [Universidade Federal de São Carlos](https://www2.ufscar.br), currently working as a Software Engineer.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sp0oks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/sp0oks" height=195>
