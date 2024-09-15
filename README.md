@@ -8,11 +8,10 @@ I'm a Computer Science graduate from [Universidade Federal de São Carlos](https
 </div>
 
 <div align="center" markdown="1">
-  <h3> Hit me up in any of these! </h3>
+  <h3> You can find more about me here: </h3>
 
 [![Linkedin gasalves](https://img.shields.io/badge/-gasalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasalves/)](https://www.linkedin.com/in/gasalves/)
 [![GitHub sp0oks](https://img.shields.io/github/followers/sp0oks?label=follow&style=social)](https://github.com/sp0oks)
-[![Twitter spo0ks](https://img.shields.io/twitter/follow/spo0ks?label=spo0ks&style=social)](https://twitter.com/spo0ks)
 </div>
 
 ### For beginners
